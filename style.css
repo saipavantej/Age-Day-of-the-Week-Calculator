@@ -22,8 +22,10 @@ body{
 }
 .displayAge{
     padding: 0.5rem;
-    width: 150px;
+    width: 160px;
     color: #272343;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #e3f6f5;
     text-align: center;
     margin-bottom: 2px;
@@ -31,8 +33,10 @@ body{
 }
 .displayDay{
     padding: 0.5rem;
-    width: 150px;
+    width: 160px;
     color: #272343;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #e3f6f5;
     text-align: center;   
     border-radius: 0.2rem;
